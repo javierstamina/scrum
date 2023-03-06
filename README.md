@@ -15,12 +15,16 @@
 
 <br/>
 
-<div class="gallery" style="">
+<div class="gallery" style="display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;">
   <a href="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" target="_blank">
-    <img src="https://github.com/javierstamina/scrum/blob/master/img/SPFC%20Certiprof.jpg" alt="Descripción de la imagen 1">
+    <img src="https://github.com/javierstamina/scrum/blob/master/img/SPFC%20Certiprof.jpg" alt="Descripción de la imagen 1" style="width: 250px;
+    height: auto;">
   </a>
   <a href="https://github.com/javierstamina/scrum/blob/master/Scrum%20Foundation%20Professional%20Certificate.pdf" target="_blank">
-    <img src="https://github.com/javierstamina/scrum/blob/master/img/Scrum%20Foundation%20Professional%20Certificate.jpg" alt="Descripción de la imagen 2">
+    <img src="https://github.com/javierstamina/scrum/blob/master/img/Scrum%20Foundation%20Professional%20Certificate.jpg" alt="Descripción de la imagen 2" style="width: 250px;
+    height: auto;">
   </a>
 
   <!-- Agrega más imágenes aquí -->
