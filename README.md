@@ -22,9 +22,7 @@
   <a href="https://github.com/javierstamina/scrum/blob/master/Scrum%20Foundation%20Professional%20Certificate.pdf" target="_blank">
     <img src="https://github.com/javierstamina/scrum/blob/master/img/Scrum%20Foundation%20Professional%20Certificate.jpg" alt="Descripción de la imagen 2">
   </a>
-  <a href="path/to/image3.jpg" target="_blank">
-    <img src="path/to/image3.jpg" alt="Descripción de la imagen 3">
-  </a>
+
   <!-- Agrega más imágenes aquí -->
 </div>
 
