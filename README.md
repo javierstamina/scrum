@@ -15,7 +15,7 @@
 
 <br/>
 
-<div class="gallery">
+<div class="gallery" style="">
   <a href="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" target="_blank">
     <img src="https://github.com/javierstamina/scrum/blob/master/img/SPFC%20Certiprof.jpg" alt="Descripción de la imagen 1">
   </a>
@@ -34,7 +34,7 @@
   }
   
   .gallery img {
-    width: 100%;
+    width: 250;
     height: auto;
   }
 </style>
