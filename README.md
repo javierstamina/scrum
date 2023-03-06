@@ -30,15 +30,4 @@
   <!-- Agrega más imágenes aquí -->
 </div>
 
-<style>
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-gap: 10px;
-  }
-  
-  .gallery img {
-    width: 250px;
-    height: auto;
-  }
-</style>
+
