@@ -21,7 +21,7 @@
   foreach($files as $file) {
     $ext = pathinfo($file, PATHINFO_EXTENSION);
     if ($ext != 'md') { // Excluye el archivo README.md
-      echo '<div class="item"><a href="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" target="_blank"><img src="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf)" alt=""></a></div>';
+      echo '<div class="item"><a href="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" target="_blank"><img src="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" alt=""></a></div>';
     }
   }
   ?>
